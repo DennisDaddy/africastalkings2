@@ -1,5 +1,5 @@
  require 'sinatra'
- require 'africastalking-ruby'
+ require 'AfricasTalkingGateway'
     get '/frank-says' do
       'Put this in your pipe & smoke it!'
     end
